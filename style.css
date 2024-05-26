@@ -1,0 +1,17 @@
+*{
+  margin: 0;
+padding: 0;
+}
+body{
+overflow: hidden;
+
+}
+h1{
+  text-align: center;
+}
+h3{
+  text-align: center;
+}
+canvas{
+  border: 3px solid black;
+}
