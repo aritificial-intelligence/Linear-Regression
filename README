@@ -1,0 +1,3 @@
+"npm install" to install project
+"npm run dev" to run project
+you can click on canvas to draw points and see the linear regression of those points
